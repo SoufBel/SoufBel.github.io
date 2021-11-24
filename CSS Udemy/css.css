@@ -1,0 +1,54 @@
+body{
+ margin: 0%;
+}
+.hoofd{
+    background-color: black;
+    color: orange;
+    padding-bottom: 16px;
+    padding-top: 5px;
+}
+.hoofd ul li {
+    text-decoration: none;
+    display: inline-block;
+    margin: 0 auto;
+}
+
+
+
+
+
+.test {
+    display: inline;
+}
+
+
+.eersteblok {
+    width: 200px;
+    height: 200px;
+    padding: 50px 30px 8px 15px;
+    border: 3px solid black;
+    border-radius: 15%;
+    text-align: left;
+    margin: 20px 80%;
+   display: inline-block;
+    
+}
+.eersteblok:hover {
+    background-color: magenta;
+}
+
+
+}
+ h1  {
+     display: inline;
+ }
+
+ span {
+     display: block;
+ }
+ .a123 {
+     border: 3px solid black;
+ }
+ 
+ div {
+ 
